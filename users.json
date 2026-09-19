@@ -17,6 +17,13 @@
       "uid": 67,
       "role": "Sucker",
       "expire": "till never"
+    },
+    {
+      "hwid": "4cfd9241853786501979a9018c3f806112056cd8ece6054a1cddc5fbaf17050c",
+      "username": "Luvex",
+      "uid": 1488,
+      "role": "User",
+      "expire": "till never"
     }
   ]
 }
