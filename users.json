@@ -1,4 +1,8 @@
 {
+  "client": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/1Neex1337-1/visaline-updates/releases/download/1.0.0/Visaline-1.0.0.jar"
+  },
   "users": [
     {
       "hwid": "e56ed63c86943753277eed94884dd33aa3ad484159fcdfd93f4c8ff5ee962d9e",
