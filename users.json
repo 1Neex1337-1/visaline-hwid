@@ -11,7 +11,6 @@
       "role": "Developer",
       "expire": "till never"
     },
-    "users": [
     {
       "hwid": "e56ed63c86943753277eed94884dd33aa3ad484159fcdfd93f4c8ff5ee962d9e",
       "username": "Neex1337",
@@ -20,5 +19,4 @@
       "expire": "till never"
     }
   ]
-}
 }
