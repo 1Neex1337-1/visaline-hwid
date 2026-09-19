@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "hwid": "ТЕСТ",
+      "username": "extjni",
+      "uid": 0,
+      "role": "Owner",
+      "expire": "till never"
+    }
+  ]
+}
