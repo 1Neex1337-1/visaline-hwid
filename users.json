@@ -5,23 +5,18 @@
   },
   "users": [
     {
-      "hwid": "52aa0c9cb0fd47ca27255e3c8f8d0cbdd17edc2f53882523481d557f60b5e83f",
-      "username": "Neex1337",
-      "uid": 1,
-      "role": "Developer",
-      "expire": "till never"
-    },
-    {
       "hwid": "e56ed63c86943753277eed94884dd33aa3ad484159fcdfd93f4c8ff5ee962d9e",
       "username": "Neex1337",
       "uid": 1,
       "role": "Developer",
       "expire": "till never"
     },
-        {
+    {
       "hwid": "f2b504148cc332bbb7c07cbdc1752bf01e20eb52871565c86398cbe5efcd5259",
       "username": "wavephobia",
       "uid": 67,
       "role": "Sucker",
       "expire": "till never"
+    }
+  ]
 }
