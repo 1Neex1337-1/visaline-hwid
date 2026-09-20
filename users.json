@@ -1,7 +1,8 @@
-"client": {
-  "version": "1.0.2",
-  "download_url": "https://github.com/1Neex1337-1/visaline-hwid/releases/download/1.0.2/Visaline-1.0.2.jar"
-},
+{
+  "client": {
+    "version": "1.0.2",
+    "download_url": "https://github.com/1Neex1337-1/visaline-hwid/releases/download/1.0.2/Visaline-1.0.2.jar"
+  },
   "users": [
     {
       "hwid": "52aa0c9cb0fd47ca27255e3c8f8d0cbdd17edc2f53882523481d557f60b5e83f",
