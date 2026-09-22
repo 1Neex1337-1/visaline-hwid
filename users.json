@@ -24,6 +24,13 @@
       "uid": 1488,
       "role": "User",
       "expire": "till never"
+     },
+    {
+      "hwid": "f2b504148cc332bbb7c07cbdc1752bf01e20eb52871565c86398cbe5efcd5259",
+      "username": "wavephobia",
+      "uid": 67,
+      "role": "Sucker",
+      "expire": "till never"
     }
   ]
 }
